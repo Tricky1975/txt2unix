@@ -1,0 +1,24 @@
+[rem]
+Generated file!
+
+Generated: 3/11/2019 11:59:35 AM
+
+[vars]
+CYEAR PROGRAM.CS=2019
+LIC PROGRAM.CS=GNU General Public License 3
+LICFIELD - PROGRAM.CS - GNU GENERAL PUBLIC LICENSE 3 - COPYRIGHT HOLDER=Jeroen P. Broks
+LICFIELD - PROGRAM.CS - GNU GENERAL PUBLIC LICENSE 3 - NAME PROJECT=txt2unix
+LICFIELD - PROGRAM.CS - GNU GENERAL PUBLIC LICENSE 3 - WHAT DOES IT DO=Converts text files to unix
+PROJECT=txt2unix
+
+
+[List:KNOWN]
+Program.cs
+
+[List:SKIPFILE]
+License.MKL.gini
+
+[List:SKIPDIR]
+obj\Debug
+Properties
+
